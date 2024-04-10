@@ -1,4 +1,3 @@
 # TankGame
 
-
-![image](https://github.com/myry07/TankGame/tree/main/docs/tk.PNG)
+![image](https://github.com/myry07/TankGame/blob/main/docs/tk.png)
